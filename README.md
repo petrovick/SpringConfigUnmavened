@@ -1,0 +1,2 @@
+# SpringConfigUnmavened
+Application for testing.
